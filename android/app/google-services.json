@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "975709134243",
+    "project_id": "gigs-73b8b",
+    "storage_bucket": "gigs-73b8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975709134243:android:944c0b304e9e1c23cd0e16",
+        "android_client_info": {
+          "package_name": "com.gig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975709134243-68l1s43oa5dnbvv0led2drntdsku1m85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtmMArTGAWcbgTvc7hIOJfo4xzzyVTVY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975709134243-68l1s43oa5dnbvv0led2drntdsku1m85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
